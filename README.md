@@ -77,6 +77,8 @@ Building the walking mechanism after setting up the codes for the response syste
 ..
 Was supposed to walk, it doesn't do that. Was supposed to wave like a cat when you walk past it, it doesn't do that either. I idn't knew what to do, but atleast I wanted a better ending, so I rounded it off with some final look upgrades that makes me laugh when I look at the photo. 
 
+All the photos and videos in the googledrive link below.
+
 ### Project Demo
 # Video
 https://drive.google.com/drive/folders/1JcOdHqjn9uG7sZyFrTnFvAUcRM__7HY7
