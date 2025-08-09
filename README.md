@@ -1,39 +1,34 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Supposed to be "Mr. Bin" is a "Mr What's This" now  🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Ablaze
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Faizal Hussain - College of Engineering Adoor
 
 ### Project Description
-[2-3 lines about what your project does]
+It was intended to be a Dustbin that runs away when you get near it. In the remaining last 30 minutes, it became a something that was supposed to move "hands" when you pass by it. By the end, it became something that literally made me wonder "WHAT IS this?". 
+ must say, nothing ever came out so useless as this useless project 😉. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Dustbins weren't getting the right justice. Anyone approached them only to throw waste papers or something into them. They also needed a chance, so I decided to give them one. (Atleast, tried)
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+The solution was simple. give them legs to run when someone approaches them. And so, I tried, but I don't know what became of the supposedly walking legs. 
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
 
+- Arduino IDE
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- ESP 32, 1 Dc Motor, 1 Ultrasonic Sensor
+
 
 ### Implementation
 For Software:
@@ -70,8 +65,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+
 
 ![Build](Add photos of build process here)
 *Explain the build steps*
@@ -88,9 +82,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Faizal Hussain: Attempted to make a walking mechanism using a crank and lever type mechansim. 
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
