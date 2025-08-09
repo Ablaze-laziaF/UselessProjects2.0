@@ -28,6 +28,7 @@ For Software:
 - Arduino IDE
 For Hardware:
 - ESP 32, 1 Dc Motor, 1 Ultrasonic Sensor
+- Also carboards, refils etc for the mechanical parts.
 
 
 ### Implementation
@@ -82,7 +83,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- Faizal Hussain: Attempted to make a walking mechanism using a crank and lever type mechansim. 
+- Faizal Hussain: Attempted to make a walking mechanism using a crank and lever type mechansim. Making it run when the ultrasonic sensor detects an object within 30cm.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
