@@ -66,18 +66,22 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
+...
 
 
 ![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+...
+Building the walking mechanism after setting up the codes for the response system, that makes the motor run when something comes closer(within 30cm) to the ultrasonic sensor.
+
+..
+Was supposed to walk, it doesn't do that. Was supposed to wave like a cat when you walk past it, it doesn't do that either. I idn't knew what to do, but atleast I wanted a better ending, so I rounded it off with some final look upgrades that makes me laugh when I look at the photo. 
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/drive/folders/1JcOdHqjn9uG7sZyFrTnFvAUcRM__7HY7
+
+Here, the rotational motion from the motor is converted to a reciprocating motion, to give an effect of "walking" - if kept vertically.  The mechanism was finally beeing tesed to find out the rushful paced project development (especially mechanical ones that require precision allignments), leads to such crafts at the end.
 
 # Additional Demos
 [Add any extra demo materials/links]
